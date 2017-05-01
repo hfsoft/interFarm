@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>PHP程序设计在线课堂</title>
+  {include file="common/header"/}
+  
+</head>
+<body class="hold-transition skin-blue sidebar-mini">
+<div class="wrapper">
+
+  <header class="main-header">
+    <!-- Logo -->
+    <a href="index2.html" class="logo">
+      <!-- mini logo for sidebar mini 50x50 pixels -->
+      <span class="logo-mini"><b>PHP</b></span>
+      <!-- logo for regular state and mobile devices -->
+      <span class="logo-lg"><b>PHP程序设计</b></span>
+    </a>
+    <!-- Header Navbar: style can be found in header.less -->
+    <nav class="navbar navbar-static-top">
+      <!-- Sidebar toggle button-->
+      <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
+        <span class="sr-only">Toggle navigation</span>
+      </a>
+
+      {include file="common/top"/}
+    </nav>
+  </header>
+  <!-- Left side column. contains the logo and sidebar -->
+  <aside class="main-sidebar">
+    <!-- sidebar: style can be found in sidebar.less -->
+    <section class="sidebar">
+      <!-- Sidebar user panel -->
+      {include file="common/useronline"/}
+      <!-- search form -->
+      {include file="common/search"/}
+      <!-- /.search form -->
+      <!-- sidebar menu: : style can be found in sidebar.less -->
+      {include file="common/left"/}
+    </section>
+    <!-- /.sidebar -->
+  </aside>
+
+  <!-- Content Wrapper. Contains page content -->
+  <div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+      <h1>
+        <a class="btn" href="{:Url('Index/index/zhangjieceshi')}">返回</a>
+         
+      </h1> 
+      <ol class="breadcrumb">
+        <li><a href="index"><i class="fa fa-dashboard"></i> 首页</a></li>
+        <li class="active">章节测试</li>
+      </ol>
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+       <!-- About Me Box -->
+       <div class="box box-primary">
+         <div class="box-header with-border">
+           <h3 class="box-title">PHP入门</h3>
+         </div>
+         <!-- /.box-header -->
+         <div class="box-body" style="color:#000;font-size: 16px">
+              <b>1． 以下哪个SQL语句是正确的（  ）</b><br>
+
+              A：insert into users (‘p001’,’张三’,’男’);  <br>
+
+              B：create table (Code int primary key);  <br>
+
+              C：update users  Code=’p002’ where Code=’p001’;<br>
+
+              D：select Code as ‘代号’ from users；<br><br><br>
+
+              <b>2． 以下哪种类型是B/S架构的正确描述（  ） </b><br>
+
+              A：需要客户安装客户端    <br>
+              B：不需要安装就可以使用  <br>
+
+              C：依托浏览器的网络系统<br>  
+
+              D：不需要服务器的系统<br><br><br>
+
+               
+
+              <b>3.php中哪个语句可以输出变量类型（  ）</b><br>
+
+              A：echo<br>
+
+              B：print<br>
+
+              C：var_dump()<br>
+
+              D：print_r() <br><br><br>
+
+               
+
+               
+
+              <b>4.php定义变量正确的是（  ）</b><br>
+
+               
+
+              A：var a = 5; gs的定义方式<br>
+
+               
+
+              B： $a = 10;<br>
+
+               
+
+              C：int b = 6; 强类型语言的定义方式<br>
+
+               
+
+              D：var $a = 12;<br><br><br>
+
+               
+
+               
+
+              <b>5 . php中单引号和双引号包含字符串的区别正确的是（  ）</b><br>
+
+               
+
+              A：单引号速度快，双引号速度慢 没有速度差别<br>
+
+               
+
+              B：双引号速度快，单引号速度慢<br>
+
+               
+
+              C：单引号里面可以解析转义字符 可以原样输出不能解析字符<br>
+
+               
+
+              D：双引号里面可以解析变量<br><br><br>
+
+               
+
+               
+
+               
+
+               <b>6.php中关于字符串处理函数以下说法正确的是（   ）</b><br>
+
+               
+
+              A：implode( )      <br>
+
+               
+
+              B：str_replace()     <br>  
+
+               
+
+              C：substr( ) <br>
+
+               
+
+              D：strlen( )<br><br><br>
+
+               
+
+               
+
+              <b>7.下列说法正确的是：（   ）</b><br>
+
+               
+
+              A. 数组的下标必须为数字，且从“0”开始 <br>
+
+               
+
+              B. 数组的下标可以是字符串<br>
+
+               
+
+              C. 数组中的元素类型必顺一致   <br>
+
+               
+
+               
+
+              D. 数组的下标必须是连续的  <br><br><br>
+
+               
+
+               
+
+               
+
+             
+         </div>
+         <!-- /.box-body -->
+       </div>
+       <!-- /.box -->
+
+    </section>
+    <!-- /.content -->
+  </div>
+  <!-- /.content-wrapper -->
+  {include file="common/bottom"/}
+
+  <!-- Control Sidebar -->
+  {include file="common/set"/}
+  <!-- /.control-sidebar -->
+  <!-- Add the sidebar's background. This div must be placed
+       immediately after the control sidebar -->
+  <div class="control-sidebar-bg"></div>
+</div>
+<!-- ./wrapper -->
+
+{include file="common/footerjs"}
+</body>
+</html>

@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>我的菜地</title>
+  {include file="common/header"/}
+  
+</head>
+<body class="hold-transition skin-blue sidebar-mini">
+<div class="wrapper">
+
+  <header class="main-header">
+    <!-- Logo -->
+    <a href="index2.html" class="logo">
+      <!-- mini logo for sidebar mini 50x50 pixels -->
+      <span class="logo-mini"><b>菜地</b></span>
+      <!-- logo for regular state and mobile devices -->
+      <span class="logo-lg"><b>我的菜地</b></span>
+    </a>
+    <!-- Header Navbar: style can be found in header.less -->
+    <nav class="navbar navbar-static-top">
+      <!-- Sidebar toggle button-->
+      <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
+        <span class="sr-only">Toggle navigation</span>
+      </a>
+
+      {include file="common/top"/}
+    </nav>
+  </header>
+  <!-- Left side column. contains the logo and sidebar -->
+  <aside class="main-sidebar">
+    <!-- sidebar: style can be found in sidebar.less -->
+    <section class="sidebar">
+      <!-- Sidebar user panel -->
+      {include file="common/useronline"/}
+      <!-- search form -->
+      {include file="common/search"/}
+      <!-- /.search form -->
+      <!-- sidebar menu: : style can be found in sidebar.less -->
+      {include file="common/left"/}
+    </section>
+    <!-- /.sidebar -->
+  </aside>
+
+  <!-- Content Wrapper. Contains page content -->
+  <div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    
+
+    <!-- Main content -->
+    <section class="content">
+
+
+        <div class="row">
+          <div class="col-md-3 col-sm-6 col-xs-12">
+            <div class="info-box">
+              <span class="info-box-icon bg-aqua"><i class="fa fa-user"></i></span>
+
+              <div class="info-box-content">
+                <span class="info-box-text">用户数量</span>
+                <span class="info-box-number">1,41</span>
+              </div>
+              <!-- /.info-box-content -->
+            </div>
+            <!-- /.info-box -->
+          </div>
+          <!-- /.col -->
+          <div class="col-md-3 col-sm-6 col-xs-12">
+            <div class="info-box">
+              <span class="info-box-icon bg-green"><i class="fa fa-flag-o"></i></span>
+
+              <div class="info-box-content">
+                <span class="info-box-text">课程章节</span>
+                <span class="info-box-number">32</span>
+              </div>
+              <!-- /.info-box-content -->
+            </div>
+            <!-- /.info-box -->
+          </div>
+          <!-- /.col -->
+          <div class="col-md-3 col-sm-6 col-xs-12">
+            <div class="info-box">
+              <span class="info-box-icon bg-yellow"><i class="fa fa-files-o"></i></span>
+
+              <div class="info-box-content">
+                <span class="info-box-text">视频文件</span>
+                <span class="info-box-number">48</span>
+              </div>
+              <!-- /.info-box-content -->
+            </div>
+            <!-- /.info-box -->
+          </div>
+          <!-- /.col -->
+          <div class="col-md-3 col-sm-6 col-xs-12">
+            <div class="info-box">
+              <span class="info-box-icon bg-red"><i class="fa fa-commenting"></i></span>
+
+              <div class="info-box-content">
+                <span class="info-box-text">讨论</span>
+                <span class="info-box-number">3,139</span>
+              </div>
+              <!-- /.info-box-content -->
+            </div>
+            <!-- /.info-box -->
+          </div>
+          <!-- /.col -->
+        </div>
+        <!-- /.row -->
+
+        <!-- Calendar -->
+        <div class="box box-solid bg-green-gradient">
+          <div class="box-header">
+            <i class="fa fa-calendar"></i>
+
+            <h3 class="box-title">日历</h3>
+            <!-- tools box -->
+            <div class="pull-right box-tools">
+              <!-- button with a dropdown -->
+              <div class="btn-group">
+                <button type="button" class="btn btn-success btn-sm dropdown-toggle" data-toggle="dropdown">
+                  <i class="fa fa-bars"></i></button>
+                <ul class="dropdown-menu pull-right" role="menu">
+                  <li><a href="#">添加新任务</a></li>
+                  <li><a href="#">清除任务</a></li>
+                  <li class="divider"></li>
+                  <li><a href="#">浏览日期</a></li>
+                </ul>
+              </div>
+              <button type="button" class="btn btn-success btn-sm" data-widget="collapse"><i class="fa fa-minus"></i>
+              </button>
+              <button type="button" class="btn btn-success btn-sm" data-widget="remove"><i class="fa fa-times"></i>
+              </button>
+            </div>
+            <!-- /. tools -->
+          </div>
+          <!-- /.box-header -->
+          <div class="box-body no-padding">
+            <!--The calendar -->
+            <div id="calendar" style="width: 100%"></div>
+          </div>
+          <!-- /.box-body -->
+          <div class="box-footer text-black">
+            <div class="row">
+              <div class="col-sm-6">
+                <!-- Progress bars -->
+                <div class="clearfix">
+                  <span class="pull-left">教学任务1</span>
+                  <small class="pull-right">完成 90%</small>
+                </div>
+                <div class="progress xs">
+                  <div class="progress-bar progress-bar-green" style="width: 90%;"></div>
+                </div>
+
+                <div class="clearfix">
+                  <span class="pull-left">教学任务2</span>
+                  <small class="pull-right">完成 70%</small>
+                </div>
+                <div class="progress xs">
+                  <div class="progress-bar progress-bar-green" style="width: 70%;"></div>
+                </div>
+              </div>
+              <!-- /.col -->
+              <div class="col-sm-6">
+                <div class="clearfix">
+                  <span class="pull-left">教学任务3</span>
+                  <small class="pull-right">完成 60%</small>
+                </div>
+                <div class="progress xs">
+                  <div class="progress-bar progress-bar-green" style="width: 60%;"></div>
+                </div>
+
+                <div class="clearfix">
+                  <span class="pull-left">教学任务4</span>
+                  <small class="pull-right">完成 40%</small>
+                </div>
+                <div class="progress xs">
+                  <div class="progress-bar progress-bar-green" style="width: 40%;"></div>
+                </div>
+              </div>
+              <!-- /.col -->
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+        <!-- /.box -->
+
+    </section>
+    <!-- /.content -->
+  </div>
+  <!-- /.content-wrapper -->
+  {include file="common/bottom"/}
+
+  <!-- Control Sidebar -->
+  {include file="common/set"/}
+  <!-- /.control-sidebar -->
+  <!-- Add the sidebar's background. This div must be placed
+       immediately after the control sidebar -->
+  <div class="control-sidebar-bg"></div>
+</div>
+<!-- ./wrapper -->
+
+{include file="common/footerjs"}
+</body>
+</html>

@@ -1,0 +1,266 @@
+[ 2017-04-28T17:19:14+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/
+[ log ] 127.0.0.1/jpkc/public/ [运行时间：0.093818s][吞吐率：10.66req/s] [内存消耗：1,913.65kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36',
+  'referer' => 'http://127.0.0.1/jpkc/',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T17:19:24+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/Index/index/shipin.html
+[ log ] 127.0.0.1/jpkc/public/Index/index/shipin.html [运行时间：0.047941s][吞吐率：20.86req/s] [内存消耗：1,903.52kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36',
+  'referer' => 'http://127.0.0.1/jpkc/public/',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T17:19:28+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/Index/index/jiaoxuedagang.html
+[ log ] 127.0.0.1/jpkc/public/Index/index/jiaoxuedagang.html [运行时间：0.037888s][吞吐率：26.39req/s] [内存消耗：1,747.37kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxuedagang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36',
+  'referer' => 'http://127.0.0.1/jpkc/public/Index/index/shipin.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxuedagang[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jiaoxuedagang.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T23:28:07+08:00 ] 127.0.0.1 127.0.0.1 GET /interFarm/public/
+[ log ] 127.0.0.1/interFarm/public/ [运行时间：0.081740s][吞吐率：12.23req/s] [内存消耗：1,915.57kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\interFarm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\xampp\htdocs\interFarm\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\interFarm\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T23:28:58+08:00 ] 127.0.0.1 127.0.0.1 GET /interFarm/public/index2.html
+[ log ] 127.0.0.1/interFarm/public/index2.html [运行时间：0.037615s][吞吐率：26.59req/s] [内存消耗：1,390.88kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\interFarm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index2',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36',
+  'referer' => 'http://127.0.0.1/interFarm/public/',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T23:32:13+08:00 ] 127.0.0.1 127.0.0.1 GET /interFarm/public/
+[ log ] 127.0.0.1/interFarm/public/ [运行时间：0.057454s][吞吐率：17.41req/s] [内存消耗：1,915.86kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\interFarm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\xampp\htdocs\interFarm\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\interFarm\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T23:32:26+08:00 ] 127.0.0.1 127.0.0.1 GET /interFarm/public/
+[ log ] 127.0.0.1/interFarm/public/ [运行时间：0.056514s][吞吐率：17.69req/s] [内存消耗：1,915.91kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\interFarm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\xampp\htdocs\interFarm\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\interFarm\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T23:34:10+08:00 ] 127.0.0.1 127.0.0.1 GET /interFarm/public/
+[ log ] 127.0.0.1/interFarm/public/ [运行时间：0.050128s][吞吐率：19.95req/s] [内存消耗：1,915.84kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\interFarm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\xampp\htdocs\interFarm\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\interFarm\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-28T23:35:04+08:00 ] 127.0.0.1 127.0.0.1 GET /interFarm/public/
+[ log ] 127.0.0.1/interFarm/public/ [运行时间：0.058475s][吞吐率：17.10req/s] [内存消耗：1,915.86kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\interFarm\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\xampp\htdocs\interFarm\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\interFarm\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------

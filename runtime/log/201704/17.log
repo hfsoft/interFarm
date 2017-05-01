@@ -1,0 +1,3756 @@
+[ 2017-04-17T00:00:02+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/index/index/shixunzhidaonr/id/shixunzhidao
+[ log ] 127.0.0.1/jpkc/public/index.php/index/index/shixunzhidaonr/id/shixunzhidao [运行时间：0.039629s][吞吐率：25.23req/s] [内存消耗：1,635.08kb] [文件加载：46]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/shixunzhidaonr/id/1',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'shixunzhidao',
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\shixunzhidao.html[C:\xampp\htdocs\jpkc\thinkphp\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2017-04-17T00:00:58+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/index/index/shixunzhidaonr/id/1
+[ log ] 127.0.0.1/jpkc/public/index.php/index/index/shixunzhidaonr/id/1 [运行时间：0.048289s][吞吐率：20.71req/s] [内存消耗：1,790.72kb] [文件加载：46]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/shixunzhidao',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:01:02+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/index/index/shixunzhidaonr/id/jiaoxuedagang
+[ log ] 127.0.0.1/jpkc/public/index.php/index/index/shixunzhidaonr/id/jiaoxuedagang [运行时间：0.040792s][吞吐率：24.51req/s] [内存消耗：1,635.04kb] [文件加载：46]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/shixunzhidaonr/id/1',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'jiaoxuedagang',
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\jiaoxuedagang.html[C:\xampp\htdocs\jpkc\thinkphp\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2017-04-17T00:01:05+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/index/index/shixunzhidaonr/id/shipin
+[ log ] 127.0.0.1/jpkc/public/index.php/index/index/shixunzhidaonr/id/shipin [运行时间：0.041592s][吞吐率：24.04req/s] [内存消耗：1,635.05kb] [文件加载：46]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/shixunzhidaonr/id/1',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'shipin',
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\shipin.html[C:\xampp\htdocs\jpkc\thinkphp\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2017-04-17T00:01:12+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/index/index/shixunzhidao
+[ log ] 127.0.0.1/jpkc/public/index.php/index/index/shixunzhidao [运行时间：0.037652s][吞吐率：26.56req/s] [内存消耗：1,804.19kb] [文件加载：44]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/shipin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:01:15+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/index/index/shixunzhidaonr/id/1
+[ log ] 127.0.0.1/jpkc/public/index.php/index/index/shixunzhidaonr/id/1 [运行时间：0.036993s][吞吐率：27.03req/s] [内存消耗：1,616.56kb] [文件加载：44]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/shixunzhidao',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:01:25+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/index/index/shipin
+[ log ] 127.0.0.1/jpkc/public/index.php/index/index/shipin [运行时间：0.033664s][吞吐率：29.71req/s] [内存消耗：1,616.05kb] [文件加载：44]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/shixunzhidao',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:01:27+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/index/index/jiaoxuedagang
+[ log ] 127.0.0.1/jpkc/public/index.php/index/index/jiaoxuedagang [运行时间：0.038702s][吞吐率：25.84req/s] [内存消耗：1,628.08kb] [文件加载：44]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'jiaoxuedagang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/shipin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxuedagang[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jiaoxuedagang.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:01:32+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/index/index/shixunzhidao
+[ log ] 127.0.0.1/jpkc/public/index.php/index/index/shixunzhidao [运行时间：0.035381s][吞吐率：28.26req/s] [内存消耗：1,804.15kb] [文件加载：44]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/jiaoxuedagang',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:01:34+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/index/index/shixunzhidaonr/id/1
+[ log ] 127.0.0.1/jpkc/public/index.php/index/index/shixunzhidaonr/id/1 [运行时间：0.036277s][吞吐率：27.57req/s] [内存消耗：1,616.56kb] [文件加载：44]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/shixunzhidao',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:03:06+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/index/index/jiaoxuedagang
+[ log ] 127.0.0.1/jpkc/public/index.php/index/index/jiaoxuedagang [运行时间：0.043467s][吞吐率：23.01req/s] [内存消耗：1,628.11kb] [文件加载：44]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'jiaoxuedagang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/shixunzhidao',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxuedagang[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jiaoxuedagang.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:03:15+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/index/index/shipin
+[ log ] 127.0.0.1/jpkc/public/index.php/index/index/shipin [运行时间：0.036643s][吞吐率：27.29req/s] [内存消耗：1,616.08kb] [文件加载：44]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/jiaoxuedagang',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:03:17+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/index/index/jiaoxuedagang
+[ log ] 127.0.0.1/jpkc/public/index.php/index/index/jiaoxuedagang [运行时间：0.038093s][吞吐率：26.25req/s] [内存消耗：1,628.08kb] [文件加载：44]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'jiaoxuedagang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/shipin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxuedagang[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jiaoxuedagang.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:03:20+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/index/index/pages/layout/boxed.html
+[ log ] 127.0.0.1/jpkc/public/index.php/index/index/pages/layout/boxed.html [运行时间：0.034534s][吞吐率：28.96req/s] [内存消耗：1,395.70kb] [文件加载：41]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'pages',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/jiaoxuedagang',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'layout' => 'boxed',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:03:24+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/index/index/shixunzhidao
+[ log ] 127.0.0.1/jpkc/public/index.php/index/index/shixunzhidao [运行时间：0.035913s][吞吐率：27.85req/s] [内存消耗：1,804.15kb] [文件加载：44]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/jiaoxuedagang',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:05:29+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/index/index/shixunzhidao
+[ log ] 127.0.0.1/jpkc/public/index.php/index/index/shixunzhidao [运行时间：0.062192s][吞吐率：16.08req/s] [内存消耗：2,420.88kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/jiaoxuedagang',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined function U()[C:\xampp\htdocs\jpkc\runtime\temp\f651531ece0b3cdc6296275b7e347c4d.php:323]
+
+---------------------------------------------------------------
+[ 2017-04-17T00:05:32+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/index/index/jiaoxuedagang
+[ log ] 127.0.0.1/jpkc/public/index.php/index/index/jiaoxuedagang [运行时间：0.047322s][吞吐率：21.13req/s] [内存消耗：1,890.05kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'jiaoxuedagang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/shipin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxuedagang[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jiaoxuedagang.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined function U()[C:\xampp\htdocs\jpkc\runtime\temp\a38a90e5288b0c640d9aa01a498663ae.php:323]
+
+---------------------------------------------------------------
+[ 2017-04-17T00:05:38+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/index/index/jieshao
+[ log ] 127.0.0.1/jpkc/public/index.php/index/index/jieshao [运行时间：0.046556s][吞吐率：21.48req/s] [内存消耗：1,847.80kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'jieshao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/shipin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jieshao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jieshao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined function U()[C:\xampp\htdocs\jpkc\runtime\temp\94cad2e3cb92ed35d14a32571a7d9f40.php:323]
+
+---------------------------------------------------------------
+[ 2017-04-17T00:06:17+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/index/index/jieshao
+[ log ] 127.0.0.1/jpkc/public/index.php/index/index/jieshao [运行时间：0.046246s][吞吐率：21.62req/s] [内存消耗：1,844.83kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'jieshao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/shipin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jieshao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jieshao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:06:40+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/index/index/jieshao
+[ log ] 127.0.0.1/jpkc/public/index.php/index/index/jieshao [运行时间：0.043842s][吞吐率：22.81req/s] [内存消耗：1,844.93kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'jieshao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/shipin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jieshao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jieshao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:06:42+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.048003s][吞吐率：20.83req/s] [内存消耗：2,414.13kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/jieshao',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:07:13+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.050819s][吞吐率：19.68req/s] [内存消耗：2,414.41kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/jieshao',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:07:15+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/shixunzhidaonr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/shixunzhidaonr/id/1.html [运行时间：0.035593s][吞吐率：28.10req/s] [内存消耗：1,389.02kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'shixunzhidaonr',
+    1 => 'id',
+    2 => '1',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:07:58+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.051943s][吞吐率：19.25req/s] [内存消耗：2,414.40kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/jieshao',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:08:16+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.036543s][吞吐率：27.37req/s] [内存消耗：1,862.72kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/jieshao',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:08:19+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/index/shixunzhidaonr/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/index/shixunzhidaonr/1.html [运行时间：0.031889s][吞吐率：31.36req/s] [内存消耗：1,389.65kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'shixunzhidaonr',
+    2 => '1',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:09:05+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/index/shixunzhidaonr/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/index/shixunzhidaonr/1.html [运行时间：0.035923s][吞吐率：27.84req/s] [内存消耗：1,389.88kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'shixunzhidaonr',
+    2 => '1',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:09:09+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.051947s][吞吐率：19.25req/s] [内存消耗：2,414.51kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/jieshao',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:09:12+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidaonr.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr.html [运行时间：0.039224s][吞吐率：25.49req/s] [内存消耗：1,634.63kb] [文件加载：46]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\.html[C:\xampp\htdocs\jpkc\thinkphp\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2017-04-17T00:09:33+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidaonr.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr.html [运行时间：0.039249s][吞吐率：25.48req/s] [内存消耗：1,634.82kb] [文件加载：46]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\.html[C:\xampp\htdocs\jpkc\thinkphp\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2017-04-17T00:09:38+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.048976s][吞吐率：20.42req/s] [内存消耗：2,414.39kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/index/index/jieshao',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:09:43+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html [运行时间：0.040206s][吞吐率：24.87req/s] [内存消耗：1,849.09kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:10:04+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html [运行时间：0.045131s][吞吐率：22.16req/s] [内存消耗：1,849.33kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:10:06+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.036781s][吞吐率：27.19req/s] [内存消耗：1,862.64kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:11:48+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.056172s][吞吐率：17.80req/s] [内存消耗：2,404.11kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:12:07+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.045178s][吞吐率：22.13req/s] [内存消耗：1,847.25kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:12:35+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.040067s][吞吐率：24.96req/s] [内存消耗：1,848.04kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:13:37+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.040988s][吞吐率：24.40req/s] [内存消耗：1,848.04kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:13:38+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidaonr/id/2.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/2.html [运行时间：0.041479s][吞吐率：24.11req/s] [内存消耗：1,853.08kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\2.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:13:43+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.037357s][吞吐率：26.77req/s] [内存消耗：1,674.62kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/2.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:15:01+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidaonr/id/3.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/3.html [运行时间：0.044667s][吞吐率：22.39req/s] [内存消耗：1,635.03kb] [文件加载：46]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '3',
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\3.html[C:\xampp\htdocs\jpkc\thinkphp\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2017-04-17T00:15:31+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.046369s][吞吐率：21.57req/s] [内存消耗：1,847.20kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/2.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:15:37+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html [运行时间：0.038832s][吞吐率：25.75req/s] [内存消耗：1,675.00kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:15:38+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.039943s][吞吐率：25.04req/s] [内存消耗：1,674.62kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:15:40+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidaonr/id/2.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/2.html [运行时间：0.041427s][吞吐率：24.14req/s] [内存消耗：1,675.02kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\2.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:15:42+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.039793s][吞吐率：25.13req/s] [内存消耗：1,674.62kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/2.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:16:04+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.044111s][吞吐率：22.67req/s] [内存消耗：1,674.77kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/2.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:16:05+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html [运行时间：0.049841s][吞吐率：20.06req/s] [内存消耗：1,849.19kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:16:08+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.039825s][吞吐率：25.11req/s] [内存消耗：1,674.62kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:18:10+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/pages/layout/boxed.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/pages/layout/boxed.html [运行时间：0.039201s][吞吐率：25.51req/s] [内存消耗：1,395.67kb] [文件加载：41]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'pages',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'layout' => 'boxed',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:18:58+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/pages/layout/boxed.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/pages/layout/boxed.html [运行时间：0.038191s][吞吐率：26.18req/s] [内存消耗：1,396.53kb] [文件加载：41]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'pages',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'layout' => 'boxed',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:19:01+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.040528s][吞吐率：24.67req/s] [内存消耗：1,848.02kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:19:03+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxuesheji.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html [运行时间：0.042919s][吞吐率：23.30req/s] [内存消耗：1,843.47kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxuesheji',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxuesheji[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jiaoxuesheji.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:19:06+08:00 ] 192.168.31.68 192.168.31.85 GET /jpkc/public/index.php/Index/Index/shixunzhidao
+[ log ] 192.168.31.68/jpkc/public/index.php/Index/Index/shixunzhidao [运行时间：0.032061s][吞吐率：31.19req/s] [内存消耗：1,674.91kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'Index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'accept-language' => 'zh-CN',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '192.168.31.68',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:19:20+08:00 ] 192.168.31.68 192.168.31.85 GET /jpkc/public/index.php/Index/index/jiaoxuedagang.html
+[ log ] 192.168.31.68/jpkc/public/index.php/Index/index/jiaoxuedagang.html [运行时间：0.055403s][吞吐率：18.05req/s] [内存消耗：1,885.36kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxuedagang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'referer' => 'http://192.168.31.68/jpkc/public/index.php/Index/Index/shixunzhidao',
+  'accept-language' => 'zh-CN',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '192.168.31.68',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxuedagang[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jiaoxuedagang.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:19:42+08:00 ] 192.168.31.68 192.168.31.85 GET /jpkc/public/index.php/Index/index/jiaoxuesheji.html
+[ log ] 192.168.31.68/jpkc/public/index.php/Index/index/jiaoxuesheji.html [运行时间：0.059943s][吞吐率：16.68req/s] [内存消耗：1,843.26kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxuesheji',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'referer' => 'http://192.168.31.68/jpkc/public/index.php/Index/index/jiaoxuedagang.html',
+  'accept-language' => 'zh-CN',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '192.168.31.68',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxuesheji[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jiaoxuesheji.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:19:46+08:00 ] 192.168.31.68 192.168.31.85 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html
+[ log ] 192.168.31.68/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html [运行时间：0.036814s][吞吐率：27.16req/s] [内存消耗：1,396.23kb] [文件加载：41]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'referer' => 'http://192.168.31.68/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-language' => 'zh-CN',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '192.168.31.68',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:19:51+08:00 ] 192.168.31.68 192.168.31.85 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 192.168.31.68/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.040666s][吞吐率：24.59req/s] [内存消耗：1,675.23kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'referer' => 'http://192.168.31.68/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-language' => 'zh-CN',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '192.168.31.68',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:20:23+08:00 ] 192.168.31.68 192.168.31.85 GET /jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html
+[ log ] 192.168.31.68/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html [运行时间：0.068615s][吞吐率：14.57req/s] [内存消耗：1,849.76kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'referer' => 'http://192.168.31.68/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-language' => 'zh-CN',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '192.168.31.68',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:20:30+08:00 ] 192.168.31.68 192.168.31.85 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 192.168.31.68/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.043971s][吞吐率：22.74req/s] [内存消耗：1,675.23kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'referer' => 'http://192.168.31.68/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html',
+  'accept-language' => 'zh-CN',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '192.168.31.68',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:20:34+08:00 ] 192.168.31.68 192.168.31.85 GET /jpkc/public/index.php/Index/index/shixunzhidaonr/id/2.html
+[ log ] 192.168.31.68/jpkc/public/index.php/Index/index/shixunzhidaonr/id/2.html [运行时间：0.039158s][吞吐率：25.54req/s] [内存消耗：1,853.85kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'referer' => 'http://192.168.31.68/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-language' => 'zh-CN',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '192.168.31.68',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\2.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:21:02+08:00 ] 192.168.31.68 192.168.31.85 GET /jpkc/public/index.php/Index/index/shixunzhidaonr/id/shipin
+[ log ] 192.168.31.68/jpkc/public/index.php/Index/index/shixunzhidaonr/id/shipin [运行时间：0.040203s][吞吐率：24.87req/s] [内存消耗：1,635.68kb] [文件加载：46]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'referer' => 'http://192.168.31.68/jpkc/public/index.php/Index/index/shixunzhidaonr/id/2.html',
+  'accept-language' => 'zh-CN',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '192.168.31.68',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'shipin',
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\shipin.html[C:\xampp\htdocs\jpkc\thinkphp\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2017-04-17T00:21:06+08:00 ] 192.168.31.68 192.168.31.85 GET /jpkc/public/index.php/Index/index/shixunzhidaonr/id/shipin
+[ log ] 192.168.31.68/jpkc/public/index.php/Index/index/shixunzhidaonr/id/shipin [运行时间：0.033043s][吞吐率：30.26req/s] [内存消耗：1,635.68kb] [文件加载：46]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'referer' => 'http://192.168.31.68/jpkc/public/index.php/Index/index/shixunzhidaonr/id/2.html',
+  'accept-language' => 'zh-CN',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '192.168.31.68',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'shipin',
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\shipin.html[C:\xampp\htdocs\jpkc\thinkphp\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2017-04-17T00:21:18+08:00 ] 192.168.31.68 192.168.31.85 GET /jpkc/public/index.php/Index/index/shixunzhidaonr/id/shipin
+[ log ] 192.168.31.68/jpkc/public/index.php/Index/index/shixunzhidaonr/id/shipin [运行时间：0.030766s][吞吐率：32.50req/s] [内存消耗：1,635.68kb] [文件加载：46]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'referer' => 'http://192.168.31.68/jpkc/public/index.php/Index/index/shixunzhidaonr/id/2.html',
+  'accept-language' => 'zh-CN',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '192.168.31.68',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'shipin',
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\shipin.html[C:\xampp\htdocs\jpkc\thinkphp\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2017-04-17T00:21:20+08:00 ] 192.168.31.68 192.168.31.85 GET /jpkc/public/index.php/Index/index/shixunzhidaonr/id/shipin
+[ log ] 192.168.31.68/jpkc/public/index.php/Index/index/shixunzhidaonr/id/shipin [运行时间：0.031373s][吞吐率：31.87req/s] [内存消耗：1,635.42kb] [文件加载：46]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'accept-language' => 'zh-CN',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '192.168.31.68',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'shipin',
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\shipin.html[C:\xampp\htdocs\jpkc\thinkphp\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2017-04-17T00:21:24+08:00 ] 192.168.31.68 192.168.31.85 GET /jpkc/public/index.php/Index/index/shixunzhidaonr/id/2.html
+[ log ] 192.168.31.68/jpkc/public/index.php/Index/index/shixunzhidaonr/id/2.html [运行时间：0.040055s][吞吐率：24.97req/s] [内存消耗：1,675.61kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'referer' => 'http://192.168.31.68/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-language' => 'zh-CN',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '192.168.31.68',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\2.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:21:31+08:00 ] 192.168.31.68 192.168.31.85 GET /jpkc/public/index.php/Index/index/shixunzhidaonr/id/shipin
+[ log ] 192.168.31.68/jpkc/public/index.php/Index/index/shixunzhidaonr/id/shipin [运行时间：0.030567s][吞吐率：32.72req/s] [内存消耗：1,635.68kb] [文件加载：46]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'referer' => 'http://192.168.31.68/jpkc/public/index.php/Index/index/shixunzhidaonr/id/2.html',
+  'accept-language' => 'zh-CN',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '192.168.31.68',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'shipin',
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\shipin.html[C:\xampp\htdocs\jpkc\thinkphp\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2017-04-17T00:21:34+08:00 ] 192.168.31.68 192.168.31.85 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 192.168.31.68/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.043718s][吞吐率：22.87req/s] [内存消耗：1,675.23kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'referer' => 'http://192.168.31.68/jpkc/public/index.php/Index/index/shixunzhidaonr/id/2.html',
+  'accept-language' => 'zh-CN',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '192.168.31.68',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:21:36+08:00 ] 192.168.31.68 192.168.31.85 GET /jpkc/public/index.php/Index/index/shipin
+[ log ] 192.168.31.68/jpkc/public/index.php/Index/index/shipin [运行时间：0.033833s][吞吐率：29.56req/s] [内存消耗：1,842.88kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'referer' => 'http://192.168.31.68/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-language' => 'zh-CN',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '192.168.31.68',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:23:39+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxuesheji.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html [运行时间：0.048021s][吞吐率：20.82req/s] [内存消耗：1,675.70kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxuesheji',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxuesheji[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jiaoxuesheji.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:23:43+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html [运行时间：0.034562s][吞吐率：28.93req/s] [内存消耗：1,396.49kb] [文件加载：41]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:24:20+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html [运行时间：0.040032s][吞吐率：24.98req/s] [内存消耗：1,937.19kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxueshejinr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\sheji\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:24:20+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.files/10.png
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.files/10.png [运行时间：0.046218s][吞吐率：21.64req/s] [内存消耗：1,636.54kb] [文件加载：46]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1.files',
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxueshejinr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:index/sheji/1.files[C:\xampp\htdocs\jpkc\thinkphp\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2017-04-17T00:24:20+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.files/11.png
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.files/11.png [运行时间：0.045776s][吞吐率：21.85req/s] [内存消耗：1,636.54kb] [文件加载：46]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1.files',
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxueshejinr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:index/sheji/1.files[C:\xampp\htdocs\jpkc\thinkphp\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2017-04-17T00:26:46+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html [运行时间：0.048129s][吞吐率：20.78req/s] [内存消耗：1,935.96kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxueshejinr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\sheji\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:27:06+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html [运行时间：0.045072s][吞吐率：22.19req/s] [内存消耗：1,937.86kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxueshejinr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\sheji\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:27:11+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.034164s][吞吐率：29.27req/s] [内存消耗：1,676.67kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:27:30+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html [运行时间：0.043965s][吞吐率：22.75req/s] [内存消耗：1,937.86kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxueshejinr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\sheji\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:27:31+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxuesheji.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html [运行时间：0.039266s][吞吐率：25.47req/s] [内存消耗：1,676.71kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxuesheji',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxuesheji[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jiaoxuesheji.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:27:32+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html [运行时间：0.035316s][吞吐率：28.32req/s] [内存消耗：1,705.07kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxueshejinr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\sheji\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:28:05+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html [运行时间：0.038097s][吞吐率：26.25req/s] [内存消耗：1,864.94kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxueshejinr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\sheji\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:28:54+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html [运行时间：0.045655s][吞吐率：21.90req/s] [内存消耗：1,934.85kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxueshejinr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\sheji\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:29:53+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html [运行时间：0.057118s][吞吐率：17.51req/s] [内存消耗：1,933.54kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxueshejinr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\sheji\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:30:10+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html [运行时间：0.045624s][吞吐率：21.92req/s] [内存消耗：1,933.31kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxueshejinr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\sheji\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:30:47+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html [运行时间：0.042885s][吞吐率：23.32req/s] [内存消耗：1,932.99kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxueshejinr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\sheji\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:31:51+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html [运行时间：0.045709s][吞吐率：21.88req/s] [内存消耗：1,932.04kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxueshejinr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\sheji\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:32:44+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html [运行时间：0.048223s][吞吐率：20.74req/s] [内存消耗：1,926.20kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxueshejinr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\sheji\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:32:59+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html [运行时间：0.042635s][吞吐率：23.45req/s] [内存消耗：1,926.34kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxueshejinr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\sheji\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:34:10+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html [运行时间：0.040289s][吞吐率：24.82req/s] [内存消耗：1,926.34kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxueshejinr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\sheji\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:34:43+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html [运行时间：0.065611s][吞吐率：15.24req/s] [内存消耗：1,926.17kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxueshejinr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\sheji\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:35:10+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.055286s][吞吐率：18.09req/s] [内存消耗：1,676.67kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:35:45+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.049000s][吞吐率：20.41req/s] [内存消耗：1,676.79kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:35:47+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxuesheji.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html [运行时间：0.081853s][吞吐率：12.22req/s] [内存消耗：1,676.61kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxuesheji',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxuesheji[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jiaoxuesheji.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:35:49+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html [运行时间：0.059940s][吞吐率：16.68req/s] [内存消耗：1,885.11kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxueshejinr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\sheji\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:36:01+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html [运行时间：0.098993s][吞吐率：10.10req/s] [内存消耗：1,879.64kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxueshejinr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\sheji\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:36:09+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/.html [运行时间：0.059755s][吞吐率：16.74req/s] [内存消耗：1,840.73kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:36:17+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxuesheji.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html [运行时间：0.050171s][吞吐率：19.93req/s] [内存消耗：1,676.53kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxuesheji',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxuesheji[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jiaoxuesheji.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:36:22+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html [运行时间：0.058254s][吞吐率：17.17req/s] [内存消耗：1,879.52kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxueshejinr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\sheji\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:36:24+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxuesheji.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html [运行时间：0.050871s][吞吐率：19.66req/s] [内存消耗：1,676.71kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxuesheji',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxuesheji[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jiaoxuesheji.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:36:25+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html [运行时间：0.048354s][吞吐率：20.68req/s] [内存消耗：1,685.09kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxueshejinr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxueshejinr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\sheji\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:36:26+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxuesheji.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html [运行时间：0.050112s][吞吐率：19.96req/s] [内存消耗：1,676.71kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxuesheji',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxueshejinr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxuesheji[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jiaoxuesheji.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:36:30+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shipin
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shipin [运行时间：0.049832s][吞吐率：20.07req/s] [内存消耗：1,676.48kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:36:44+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shipin
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shipin [运行时间：0.066558s][吞吐率：15.02req/s] [内存消耗：1,844.62kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:36:46+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxuedagang.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuedagang.html [运行时间：0.065019s][吞吐率：15.38req/s] [内存消耗：1,886.73kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxuedagang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shipin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxuedagang[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jiaoxuedagang.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:36:50+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.061937s][吞吐率：16.15req/s] [内存消耗：1,849.12kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuedagang.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:36:52+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html [运行时间：0.060401s][吞吐率：16.56req/s] [内存消耗：1,851.30kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidaonr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidaonr[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixun\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:36:54+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shipin.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shipin.html [运行时间：0.058116s][吞吐率：17.21req/s] [内存消耗：1,676.52kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:38:58+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shipin.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shipin.html [运行时间：0.095130s][吞吐率：10.51req/s] [内存消耗：1,845.38kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:39:50+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shipin.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shipin.html [运行时间：0.102365s][吞吐率：9.77req/s] [内存消耗：1,845.48kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:43:53+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shipin.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shipin.html [运行时间：0.068209s][吞吐率：14.66req/s] [内存消耗：1,845.80kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:45:08+08:00 ] 192.168.31.68 192.168.31.85 GET /jpkc/public/index.php/Index/index/shipin
+[ log ] 192.168.31.68/jpkc/public/index.php/Index/index/shipin [运行时间：0.040579s][吞吐率：24.64req/s] [内存消耗：1,676.30kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'referer' => 'http://192.168.31.68/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-language' => 'zh-CN',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '192.168.31.68',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:45:19+08:00 ] 192.168.31.68 192.168.31.85 GET /jpkc/public/index.php/Index/index/shipin
+[ log ] 192.168.31.68/jpkc/public/index.php/Index/index/shipin [运行时间：0.103678s][吞吐率：9.65req/s] [内存消耗：1,676.34kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'referer' => 'http://192.168.31.68/jpkc/public/index.php/Index/index/shipin',
+  'accept-language' => 'zh-CN',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '192.168.31.68',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:45:24+08:00 ] 192.168.31.68 192.168.31.85 GET /jpkc/public/index.php/Index/index/shipin.html
+[ log ] 192.168.31.68/jpkc/public/index.php/Index/index/shipin.html [运行时间：0.035739s][吞吐率：27.98req/s] [内存消耗：1,676.40kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'referer' => 'http://192.168.31.68/jpkc/public/index.php/Index/index/shipin',
+  'accept-language' => 'zh-CN',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '192.168.31.68',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:45:28+08:00 ] 192.168.31.68 192.168.31.85 GET /jpkc/public/index.php/Index/index/shipin.html
+[ log ] 192.168.31.68/jpkc/public/index.php/Index/index/shipin.html [运行时间：0.066365s][吞吐率：15.07req/s] [内存消耗：1,676.31kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'referer' => 'http://192.168.31.68/jpkc/public/index.php/Index/index/shipin.html',
+  'accept-language' => 'zh-CN',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '192.168.31.68',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:45:50+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shipin.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shipin.html [运行时间：0.065132s][吞吐率：15.35req/s] [内存消耗：1,846.60kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:47:05+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shipin.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shipin.html [运行时间：0.055518s][吞吐率：18.01req/s] [内存消耗：1,845.55kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:49:35+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shipin.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shipin.html [运行时间：0.063185s][吞吐率：15.83req/s] [内存消耗：1,846.30kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:51:50+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shipin.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shipin.html [运行时间：0.059649s][吞吐率：16.76req/s] [内存消耗：1,848.24kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:53:21+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shipin.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shipin.html [运行时间：0.061056s][吞吐率：16.38req/s] [内存消耗：1,849.13kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:55:25+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shipin.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shipin.html [运行时间：0.059974s][吞吐率：16.67req/s] [内存消耗：1,849.93kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidaonr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:55:28+08:00 ] 192.168.31.68 192.168.31.85 GET /jpkc/public/index.php/Index/index/shipin.html
+[ log ] 192.168.31.68/jpkc/public/index.php/Index/index/shipin.html [运行时间：0.052132s][吞吐率：19.18req/s] [内存消耗：1,676.32kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'referer' => 'http://192.168.31.68/jpkc/public/index.php/Index/index/shipin.html',
+  'accept-language' => 'zh-CN',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '192.168.31.68',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:56:28+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jieshao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jieshao.html [运行时间：0.059863s][吞吐率：16.70req/s] [内存消耗：1,856.09kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jieshao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shipin.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jieshao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jieshao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:56:32+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxuedagang.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuedagang.html [运行时间：0.059985s][吞吐率：16.67req/s] [内存消耗：1,895.94kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxuedagang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jieshao.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxuedagang[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jiaoxuedagang.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-17T00:57:00+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shipin.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shipin.html [运行时间：0.075384s][吞吐率：13.27req/s] [内存消耗：1,676.50kb] [文件加载：45]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuedagang.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------

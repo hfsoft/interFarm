@@ -1,0 +1,1987 @@
+[ 2017-04-19T00:26:40+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shipin.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shipin.html [运行时间：0.047425s][吞吐率：21.09req/s] [内存消耗：1,731.59kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:26:52+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shipin.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shipin.html [运行时间：0.057649s][吞吐率：17.35req/s] [内存消耗：1,904.08kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:33:16+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shipin.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shipin.html [运行时间：0.042800s][吞吐率：23.36req/s] [内存消耗：1,731.27kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shipin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shipin[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shipin.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:33:27+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/zhangjieceshi.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html [运行时间：0.047476s][吞吐率：21.06req/s] [内存消耗：1,735.32kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'zhangjieceshi',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shipin.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->zhangjieceshi[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\zhangjieceshi.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:33:28+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/zjcs/nr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html [运行时间：0.041977s][吞吐率：23.82req/s] [内存消耗：1,721.18kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'zjcs',
+    2 => 'nr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Zjcs->nr[ C:\xampp\htdocs\jpkc\application\index\controller\Zjcs.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\zjcs\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:34:08+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/zhangjieceshi.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html [运行时间：0.041482s][吞吐率：24.11req/s] [内存消耗：1,735.35kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'zhangjieceshi',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shipin.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->zhangjieceshi[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\zhangjieceshi.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:34:09+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/zjcs/nr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html [运行时间：0.053052s][吞吐率：18.85req/s] [内存消耗：1,932.69kb] [文件加载：53]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'zjcs',
+    2 => 'nr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Zjcs->nr[ C:\xampp\htdocs\jpkc\application\index\controller\Zjcs.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\zjcs\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: a[C:\xampp\htdocs\jpkc\runtime\temp\535d1ba215894fdb04602ded9a62cc25.php:705]
+
+---------------------------------------------------------------
+[ 2017-04-19T00:34:30+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/zhangjieceshi.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html [运行时间：0.046857s][吞吐率：21.34req/s] [内存消耗：1,735.59kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'zhangjieceshi',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shipin.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->zhangjieceshi[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\zhangjieceshi.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:34:31+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/zjcs/nr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html [运行时间：0.049551s][吞吐率：20.18req/s] [内存消耗：1,932.67kb] [文件加载：53]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'zjcs',
+    2 => 'nr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Zjcs->nr[ C:\xampp\htdocs\jpkc\application\index\controller\Zjcs.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\zjcs\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: a[C:\xampp\htdocs\jpkc\runtime\temp\535d1ba215894fdb04602ded9a62cc25.php:705]
+
+---------------------------------------------------------------
+[ 2017-04-19T00:35:01+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/zjcs/nr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html [运行时间：0.045834s][吞吐率：21.82req/s] [内存消耗：1,911.48kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'zjcs',
+    2 => 'nr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Zjcs->nr[ C:\xampp\htdocs\jpkc\application\index\controller\Zjcs.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\zjcs\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:36:52+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/zjcs/nr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html [运行时间：0.053161s][吞吐率：18.81req/s] [内存消耗：1,900.40kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'zjcs',
+    2 => 'nr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Zjcs->nr[ C:\xampp\htdocs\jpkc\application\index\controller\Zjcs.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\zjcs\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:37:31+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/zjcs/nr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html [运行时间：0.045412s][吞吐率：22.02req/s] [内存消耗：1,900.45kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'zjcs',
+    2 => 'nr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Zjcs->nr[ C:\xampp\htdocs\jpkc\application\index\controller\Zjcs.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\zjcs\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:38:12+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/zjcs/nr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html [运行时间：0.046224s][吞吐率：21.63req/s] [内存消耗：1,900.46kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'zjcs',
+    2 => 'nr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Zjcs->nr[ C:\xampp\htdocs\jpkc\application\index\controller\Zjcs.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\zjcs\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:38:35+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/zjcs/nr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html [运行时间：0.046220s][吞吐率：21.64req/s] [内存消耗：1,900.59kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'zjcs',
+    2 => 'nr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Zjcs->nr[ C:\xampp\htdocs\jpkc\application\index\controller\Zjcs.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\zjcs\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:38:47+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/zjcs/nr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html [运行时间：0.046151s][吞吐率：21.67req/s] [内存消耗：1,900.59kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'zjcs',
+    2 => 'nr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Zjcs->nr[ C:\xampp\htdocs\jpkc\application\index\controller\Zjcs.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\zjcs\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:39:10+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/zjcs/nr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html [运行时间：0.050705s][吞吐率：19.72req/s] [内存消耗：1,900.40kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'zjcs',
+    2 => 'nr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Zjcs->nr[ C:\xampp\htdocs\jpkc\application\index\controller\Zjcs.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\zjcs\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:40:24+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/zjcs/nr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html [运行时间：0.054444s][吞吐率：18.37req/s] [内存消耗：1,900.45kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'zjcs',
+    2 => 'nr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Zjcs->nr[ C:\xampp\htdocs\jpkc\application\index\controller\Zjcs.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\zjcs\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:40:38+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/zhangjieceshi.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html [运行时间：0.040340s][吞吐率：24.79req/s] [内存消耗：1,735.35kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'zhangjieceshi',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->zhangjieceshi[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\zhangjieceshi.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:40:39+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/zjcs/nr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html [运行时间：0.037283s][吞吐率：26.82req/s] [内存消耗：1,725.07kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'zjcs',
+    2 => 'nr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Zjcs->nr[ C:\xampp\htdocs\jpkc\application\index\controller\Zjcs.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\zjcs\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:40:41+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/zhangjieceshi.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html [运行时间：0.036802s][吞吐率：27.17req/s] [内存消耗：1,735.35kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'zhangjieceshi',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->zhangjieceshi[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\zhangjieceshi.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:43:02+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/zjcs/nr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html [运行时间：0.046631s][吞吐率：21.45req/s] [内存消耗：1,725.07kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'zjcs',
+    2 => 'nr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Zjcs->nr[ C:\xampp\htdocs\jpkc\application\index\controller\Zjcs.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\zjcs\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:43:58+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/zjcs/nr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html [运行时间：0.047299s][吞吐率：21.14req/s] [内存消耗：1,900.24kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'zjcs',
+    2 => 'nr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Zjcs->nr[ C:\xampp\htdocs\jpkc\application\index\controller\Zjcs.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\zjcs\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:44:00+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/zjcs/nr/id/pages/tables/simple.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/pages/tables/simple.html [运行时间：0.041154s][吞吐率：24.30req/s] [内存消耗：1,681.43kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'zjcs',
+    2 => 'nr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'pages',
+  'tables' => 'simple',
+)
+[ info ] [ RUN ] app\index\controller\Zjcs->nr[ C:\xampp\htdocs\jpkc\application\index\controller\Zjcs.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:C:\xampp\htdocs\jpkc\public/../application/index\view\zjcs\pages.html[C:\xampp\htdocs\jpkc\thinkphp\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2017-04-19T00:44:53+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/zjcs/nr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html [运行时间：0.044277s][吞吐率：22.59req/s] [内存消耗：1,900.32kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'zjcs',
+    2 => 'nr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Zjcs->nr[ C:\xampp\htdocs\jpkc\application\index\controller\Zjcs.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\zjcs\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:45:12+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/zhangjieceshi.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html [运行时间：0.052515s][吞吐率：19.04req/s] [内存消耗：1,913.90kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'zhangjieceshi',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->zhangjieceshi[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\zhangjieceshi.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:45:14+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/fenzu.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/fenzu.html [运行时间：0.037148s][吞吐率：26.92req/s] [内存消耗：1,389.56kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'fenzu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:45:33+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/fenzu.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/fenzu.html [运行时间：0.040700s][吞吐率：24.57req/s] [内存消耗：1,667.89kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'fenzu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:46:00+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/fenzu.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/fenzu.html [运行时间：0.044673s][吞吐率：22.38req/s] [内存消耗：1,680.64kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'fenzu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->fenzu[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\index.html[C:\xampp\htdocs\jpkc\thinkphp\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2017-04-19T00:46:31+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/fenzu.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/fenzu.html [运行时间：0.046098s][吞吐率：21.69req/s] [内存消耗：1,903.22kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'fenzu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->fenzu[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:48:58+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/fenzu.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/fenzu.html [运行时间：0.058743s][吞吐率：17.02req/s] [内存消耗：1,893.38kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'fenzu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->fenzu[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:49:49+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/fenzu.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/fenzu.html [运行时间：0.068180s][吞吐率：14.67req/s] [内存消耗：1,893.77kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'fenzu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->fenzu[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:52:13+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/fenzu.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/fenzu.html [运行时间：0.075500s][吞吐率：13.25req/s] [内存消耗：1,721.53kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'fenzu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->fenzu[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:52:15+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/indxiaozuex/renwulist.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/indxiaozuex/renwulist.html [运行时间：0.041757s][吞吐率：23.95req/s] [内存消耗：1,389.76kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'indxiaozuex',
+    2 => 'renwulist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/xiaozu/fenzu.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:52:34+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/indxiaozuex/renwulist.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/indxiaozuex/renwulist.html [运行时间：0.053289s][吞吐率：18.77req/s] [内存消耗：1,389.76kb] [文件加载：40]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'indxiaozuex',
+    2 => 'renwulist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/xiaozu/fenzu.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:52:42+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/fenzu.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/fenzu.html [运行时间：0.062441s][吞吐率：16.02req/s] [内存消耗：1,894.66kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'fenzu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->fenzu[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:52:42+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/fenzu.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/fenzu.html [运行时间：0.049477s][吞吐率：20.21req/s] [内存消耗：1,721.56kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'fenzu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->fenzu[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:52:46+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/renwulist.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html [运行时间：0.064456s][吞吐率：15.51req/s] [内存消耗：1,894.43kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'renwulist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/xiaozu/fenzu.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->renwulist[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\renwu.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:54:02+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/renwulist.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html [运行时间：0.049527s][吞吐率：20.19req/s] [内存消耗：1,894.60kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'renwulist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/xiaozu/fenzu.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->renwulist[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\renwu.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:54:09+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/renwulist.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html [运行时间：0.064713s][吞吐率：15.45req/s] [内存消耗：1,894.60kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'renwulist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/xiaozu/fenzu.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->renwulist[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\renwu.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:54:17+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/renwulist.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html [运行时间：0.057321s][吞吐率：17.45req/s] [内存消耗：1,894.60kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'renwulist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/xiaozu/fenzu.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->renwulist[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\renwu.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:57:49+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/zhangjieceshi.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html [运行时间：0.075239s][吞吐率：13.29req/s] [内存消耗：1,913.98kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'zhangjieceshi',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->zhangjieceshi[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\zhangjieceshi.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:57:57+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/shixunzhidao.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html [运行时间：0.047238s][吞吐率：21.17req/s] [内存消耗：1,912.36kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'shixunzhidao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->shixunzhidao[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\shixunzhidao.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:58:00+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxuedagang.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuedagang.html [运行时间：0.047996s][吞吐率：20.84req/s] [内存消耗：1,950.01kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxuedagang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/shixunzhidao.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxuedagang[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jiaoxuedagang.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:58:03+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxuesheji.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html [运行时间：0.048975s][吞吐率：20.42req/s] [内存消耗：1,903.93kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxuesheji',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuedagang.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxuesheji[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jiaoxuesheji.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T00:58:38+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/renwulist.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html [运行时间：0.049530s][吞吐率：20.19req/s] [内存消耗：1,894.48kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'renwulist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->renwulist[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\renwu.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T01:00:12+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/renwulist.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html [运行时间：0.090397s][吞吐率：11.06req/s] [内存消耗：1,894.96kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'renwulist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->renwulist[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\renwu.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T01:00:47+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/renwulist.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html [运行时间：0.058273s][吞吐率：17.16req/s] [内存消耗：1,894.95kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'renwulist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->renwulist[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\renwu.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T01:01:04+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/renwulist.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html [运行时间：0.055494s][吞吐率：18.02req/s] [内存消耗：1,895.00kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'renwulist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->renwulist[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\renwu.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T01:01:19+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/renwulist.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html [运行时间：0.051668s][吞吐率：19.35req/s] [内存消耗：1,895.41kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'renwulist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuesheji.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->renwulist[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\renwu.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T01:01:23+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/fenzu.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/fenzu.html [运行时间：0.047068s][吞吐率：21.25req/s] [内存消耗：1,721.32kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'fenzu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->fenzu[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T01:02:28+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/renwulist.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html [运行时间：0.059877s][吞吐率：16.70req/s] [内存消耗：1,721.34kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'renwulist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/xiaozu/fenzu.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->renwulist[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\renwu.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T01:03:12+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/renwulist.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html [运行时间：0.058088s][吞吐率：17.22req/s] [内存消耗：1,895.45kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'renwulist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/xiaozu/fenzu.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->renwulist[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\renwu.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T01:03:17+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/renwunr.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwunr.html [运行时间：0.047377s][吞吐率：21.11req/s] [内存消耗：1,668.35kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'renwunr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T01:05:49+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/renwunr.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwunr.html [运行时间：0.053200s][吞吐率：18.80req/s] [内存消耗：1,915.28kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'renwunr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->renwunr[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\renwu_detail.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T01:06:10+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/renwunr.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwunr.html [运行时间：0.051311s][吞吐率：19.49req/s] [内存消耗：1,914.79kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'renwunr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->renwunr[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\renwu_detail.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T01:06:40+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/renwunr.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwunr.html [运行时间：0.044917s][吞吐率：22.26req/s] [内存消耗：1,906.66kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'renwunr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->renwunr[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\renwu_detail.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T01:06:58+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/renwunr.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwunr.html [运行时间：0.043568s][吞吐率：22.95req/s] [内存消耗：1,906.66kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'renwunr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->renwunr[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\renwu_detail.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T01:07:17+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/renwunr.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwunr.html [运行时间：0.050310s][吞吐率：19.88req/s] [内存消耗：1,906.77kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'renwunr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->renwunr[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\renwu_detail.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T01:07:25+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/renwulist.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html [运行时间：0.042661s][吞吐率：23.44req/s] [内存消耗：1,722.27kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'renwulist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwunr.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->renwulist[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\renwu.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T01:07:28+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/jiaoxuedagang.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuedagang.html [运行时间：0.043574s][吞吐率：22.95req/s] [内存消耗：1,747.39kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'jiaoxuedagang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->jiaoxuedagang[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\jiaoxuedagang.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T01:07:41+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/index/zhangjieceshi.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html [运行时间：0.042023s][吞吐率：23.80req/s] [内存消耗：1,735.40kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index',
+    2 => 'zhangjieceshi',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/jiaoxuedagang.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->zhangjieceshi[ C:\xampp\htdocs\jpkc\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\index\zhangjieceshi.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T01:07:43+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/zjcs/nr/id/1.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html [运行时间：0.037828s][吞吐率：26.44req/s] [内存消耗：1,900.07kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'zjcs',
+    2 => 'nr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/index/zhangjieceshi.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Zjcs->nr[ C:\xampp\htdocs\jpkc\application\index\controller\Zjcs.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\zjcs\1.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T01:07:49+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/fenzu.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/fenzu.html [运行时间：0.038430s][吞吐率：26.02req/s] [内存消耗：1,722.21kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'fenzu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/zjcs/nr/id/1.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->fenzu[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T01:07:52+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/renwulist.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html [运行时间：0.042581s][吞吐率：23.48req/s] [内存消耗：1,722.23kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'renwulist',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/xiaozu/fenzu.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->renwulist[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\renwu.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-04-19T01:08:00+08:00 ] 127.0.0.1 127.0.0.1 GET /jpkc/public/index.php/Index/xiaozu/renwunr.html
+[ log ] 127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwunr.html [运行时间：0.063445s][吞吐率：15.76req/s] [内存消耗：1,726.27kb] [文件加载：47]
+[ info ] [ LANG ] C:\xampp\htdocs\jpkc\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'xiaozu',
+    2 => 'renwunr',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/jpkc/public/index.php/Index/xiaozu/renwulist.html',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Xiaozu->renwunr[ C:\xampp\htdocs\jpkc\application\index\controller\Xiaozu.php ]
+[ info ] [ VIEW ] C:\xampp\htdocs\jpkc\public/../application/index\view\xiaozu\renwu_detail.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
